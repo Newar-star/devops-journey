@@ -1,4 +1,7 @@
 def f():
-    print(hello)
+    print("hello")
+
+def work():
+    print("work work")
 
 f()
